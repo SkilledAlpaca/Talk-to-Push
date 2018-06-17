@@ -1,7 +1,15 @@
 TalkToPush
-==========
 
-An application designed to mimic voice activation in games that only have push-to-talk.
-"# Talk-to-Push" 
+![alt text](https://i.imgur.com/wPYljnS.png)
+
 # Talk-to-Push
-# Talk-to-Push
+
+This application is designed to enable Open Microphone for games and applications that don't support it. Such as Battlefield 4. 
+
+## License
+
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* Original Source: https://archive.codeplex.com/?p=talktopush
