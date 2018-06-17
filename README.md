@@ -1,10 +1,10 @@
-TalkToPush
-
-![alt text](https://i.imgur.com/wPYljnS.png)
-
 # Talk-to-Push
 
 This application is designed to enable Open Microphone for games and applications that don't support it. Such as Battlefield 4. 
+
+## Screenshot
+
+![Talk-to-Push](https://i.imgur.com/wPYljnS.png)
 
 ## License
 
